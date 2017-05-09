@@ -37,3 +37,6 @@ Chat App
   http://www.onlinetuting.com/chat-application-in-php-ajax/
   https://www.bypeople.com/material-design-app-ui/
   https://www.bypeople.com/material-design-chat-ui/
+  
+Materialize
+  http://demo.geekslabs.com/materialize/v2.2/layout03/index.html
