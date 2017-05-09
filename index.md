@@ -34,3 +34,6 @@ LOGIN/REG
 PHP Classes Tutorials
 Chat App
   https://www.phpclasses.org/blog/package/3213/post/1-Tutorial-on-Creating-an-AJAX-based-Chat-system-in-PHP.html
+  http://www.onlinetuting.com/chat-application-in-php-ajax/
+  https://www.bypeople.com/material-design-app-ui/
+  https://www.bypeople.com/material-design-chat-ui/
