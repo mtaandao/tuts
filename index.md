@@ -17,13 +17,20 @@ Send HTML Email in PHP via SMTP
   http://www.kodingmadesimple.com/2016/01/send-html-email-in-php-via-smtp.html
   
 PHP Search Engine Script for MySQL Database using AJAX
-http://www.kodingmadesimple.com/2015/12/php-search-engine-script-for-mysql-database-ajax.html
+  http://www.kodingmadesimple.com/2015/12/php-search-engine-script-for-mysql-database-ajax.html
 
 Autocomplete Textbox from Database in PHP, jQuery and MySQL
-http://www.kodingmadesimple.com/2015/02/autocomplete-textbox-from-database-php-jquery.html
+  http://www.kodingmadesimple.com/2015/02/autocomplete-textbox-from-database-php-jquery.html
 
-http://www.kodingmadesimple.com/2015/01/convert-mysql-to-json-using-php.html
+MYSQL to JSON
+  http://www.kodingmadesimple.com/2015/01/convert-mysql-to-json-using-php.html
 
-http://www.kodingmadesimple.com/2014/12/how-to-insert-json-data-into-mysql-php.html
+JSON to MYSQL
+  http://www.kodingmadesimple.com/2014/12/how-to-insert-json-data-into-mysql-php.html
 
-http://www.kodingmadesimple.com/2016/01/php-login-and-registration-script-with-mysql-example.html
+LOGIN/REG
+  http://www.kodingmadesimple.com/2016/01/php-login-and-registration-script-with-mysql-example.html
+
+PHP Classes Tutorials
+Chat App
+  https://www.phpclasses.org/blog/package/3213/post/1-Tutorial-on-Creating-an-AJAX-based-Chat-system-in-PHP.html
